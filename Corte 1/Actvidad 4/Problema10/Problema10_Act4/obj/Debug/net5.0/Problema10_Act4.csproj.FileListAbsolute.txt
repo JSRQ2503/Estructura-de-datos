@@ -1,0 +1,16 @@
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\bin\Debug\net5.0\Problema10_Act4.exe
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\bin\Debug\net5.0\Problema10_Act4.deps.json
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\bin\Debug\net5.0\Problema10_Act4.runtimeconfig.json
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\bin\Debug\net5.0\Problema10_Act4.runtimeconfig.dev.json
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\bin\Debug\net5.0\Problema10_Act4.dll
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\bin\Debug\net5.0\ref\Problema10_Act4.dll
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\bin\Debug\net5.0\Problema10_Act4.pdb
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.AssemblyInfo.cs
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.dll
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\ref\Problema10_Act4.dll
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.pdb
+C:\Users\santy\source\repos\Problema10_Act4\Problema10_Act4\obj\Debug\net5.0\Problema10_Act4.genruntimeconfig.cache
