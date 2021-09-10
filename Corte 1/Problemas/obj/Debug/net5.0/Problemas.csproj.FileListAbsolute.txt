@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\bin\Debug\net5.0\Problemas.exe
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\bin\Debug\net5.0\Problemas.deps.json
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\bin\Debug\net5.0\Problemas.runtimeconfig.json
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\bin\Debug\net5.0\Problemas.runtimeconfig.dev.json
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\bin\Debug\net5.0\Problemas.dll
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\bin\Debug\net5.0\ref\Problemas.dll
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\bin\Debug\net5.0\Problemas.pdb
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.AssemblyInfo.cs
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.dll
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\ref\Problemas.dll
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.pdb
+C:\Users\User\Documents\Universidad\Estructura de datos\Problemas\obj\Debug\net5.0\Problemas.genruntimeconfig.cache
